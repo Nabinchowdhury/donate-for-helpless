@@ -5,8 +5,6 @@ body {
     margin: 0%;
 }
 
-
-
 h1 {
     font-size: 60px;
     margin: 0%;
@@ -14,17 +12,13 @@ h1 {
 
 p {
     font-size: 15px;
-
-
 }
 
 .gap {
     margin-top: 30px;
 }
 
-
-
-section {
+.one {
     text-align: center;
     color: white;
     padding-top: 8%;
@@ -32,9 +26,6 @@ section {
     background-image: url(images/donation13.jpg);
     background-size: 100%;
 }
-
-
-
 
 .don {
     font-size: large;
@@ -45,5 +36,47 @@ section {
     border: 0ch;
     border-radius: 5px;
     margin-top: 30px;
+}
 
+.two {
+    text-align: center;
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.boxes {
+    display: flex;
+}
+
+.sbl {
+    background-color: whitesmoke;
+    margin-left: 25%;
+    margin-right: 15px;
+    margin-top: 45px;
+    margin-bottom: 15px;
+    padding: 30px;
+    border-radius: 5%;
+    color: gray;
+
+}
+
+.sb {
+    background-color: whitesmoke;
+    margin-right: 15px;
+    margin-top: 45px;
+    margin-bottom: 15px;
+    padding: 30px;
+    border-radius: 5%;
+    color: gray;
+}
+
+.sb2 {
+    border: 3px solid tomato;
+    margin-right: 15px;
+    margin-top: 45px;
+    margin-bottom: 15px;
+    padding: 30px;
+    border-radius: 5%;
+    background-color: mistyrose;
+    color: tomato;
 }
