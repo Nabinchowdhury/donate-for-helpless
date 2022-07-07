@@ -1,1 +1,0 @@
-# donate-for-helpless
