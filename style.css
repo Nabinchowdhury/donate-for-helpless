@@ -10,8 +10,13 @@ h1 {
     margin: 0%;
 }
 
+.one p {
+    color: white;
+}
+
 p {
     font-size: 15px;
+    color: grey
 }
 
 .gap {
@@ -90,4 +95,39 @@ p {
     border-style: none;
     border-bottom: 1px solid grey;
     padding: 1% 20% 1% 20%;
+}
+
+.three {
+    text-align: center;
+    padding-bottom: 8%;
+}
+
+.food {
+    background-color: aliceblue;
+    padding: 70px 35px;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    text-align: left;
+
+
+}
+
+.shelt {
+    background-color: beige;
+    text-align: left;
+    padding: 70px 35px;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.edu {
+    background-color: bisque;
+    padding: 70px 35px;
+    margin-top: 5%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    text-align: left;
 }
