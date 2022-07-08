@@ -104,12 +104,6 @@ p {
     padding-bottom: 8%;
 }
 
-
-
-
-
-
-
 .food {
     background-color: lavender;
     text-align: left;
@@ -162,4 +156,32 @@ footer h2 {
 
 footer p {
     color: aliceblue;
+}
+
+
+.four {
+    text-align: center;
+
+    padding-bottom: 8%;
+    margin: 0%;
+}
+
+.email {
+    border-radius: 5px;
+    margin-top: 30px;
+    padding: 10px;
+    width: 50%;
+    font-size: 15px;
+    color: grey;
+    background-color: lightgrey;
+}
+
+form {
+    background-color: beige;
+    margin-top: 50px;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-left: 8%;
+    padding-bottom: 50px;
+    padding-top: 30px;
 }
