@@ -142,3 +142,24 @@ p {
     padding: 70px 30px;
     width: 100%;
 }
+
+footer {
+    text-align: center;
+    background-color: black;
+    margin-bottom: 0%;
+    padding: 40px;
+
+}
+
+footer h2 {
+
+    font-family: cursive;
+    color: red;
+    font-size: 30px;
+    margin: 0%;
+    font-weight: 800;
+}
+
+footer p {
+    color: aliceblue;
+}
